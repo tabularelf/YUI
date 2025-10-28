@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Packages - gspl",
-    "path": "folders/Packages - gspl.yy",
+  "$GMNotes":"v1",
+  "%Name":"GSPL readne",
+  "name":"GSPL readne",
+  "parent":{
+    "name":"Packages - gspl",
+    "path":"folders/Packages - gspl.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "GSPL readne",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

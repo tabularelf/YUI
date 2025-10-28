@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Parselets",
-    "path": "folders/Packages - YUI/Parser/Ys/Parselets.yy",
+  "$GMScript":"v1",
+  "%Name":"YsSlotParselet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YsSlotParselet",
+  "parent":{
+    "name":"Parselets",
+    "path":"folders/Packages - YUI/Parser/Ys/Parselets.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YsSlotParselet",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

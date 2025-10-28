@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "ValueTypes",
-    "path": "folders/Packages - gspl/Execute/ValueTypes.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplSentinel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplSentinel",
+  "parent":{
+    "name":"ValueTypes",
+    "path":"folders/Packages - gspl/Execute/ValueTypes.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplSentinel",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

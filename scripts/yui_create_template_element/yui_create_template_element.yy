@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Elements",
-    "path": "folders/Packages - YUI/Elements.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_create_template_element",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_create_template_element",
+  "parent":{
+    "name":"Elements",
+    "path":"folders/Packages - YUI/Elements.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_create_template_element",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

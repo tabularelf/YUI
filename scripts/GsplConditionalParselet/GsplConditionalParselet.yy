@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Pratt",
-    "path": "folders/Packages - gspl/Parser/Pratt.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplConditionalParselet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplConditionalParselet",
+  "parent":{
+    "name":"Pratt",
+    "path":"folders/Packages - gspl/Parser/Pratt.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplConditionalParselet",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

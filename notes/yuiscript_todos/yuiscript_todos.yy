@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Parser",
-    "path": "folders/Packages - YUI/Parser.yy",
+  "$GMNotes":"v1",
+  "%Name":"yuiscript_todos",
+  "name":"yuiscript_todos",
+  "parent":{
+    "name":"Parser",
+    "path":"folders/Packages - YUI/Parser.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "yuiscript_todos",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

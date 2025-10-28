@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "scripts",
-    "path": "folders/Packages - YUI/scripts.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_structs_equal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_structs_equal",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/Packages - YUI/scripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_structs_equal",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

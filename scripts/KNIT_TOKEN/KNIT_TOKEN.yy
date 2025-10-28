@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Knit",
-    "path": "folders/Packages - gspl/Languages/Knit.yy",
+  "$GMScript":"v1",
+  "%Name":"KNIT_TOKEN",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"KNIT_TOKEN",
+  "parent":{
+    "name":"Knit",
+    "path":"folders/Packages - gspl/Languages/Knit.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "KNIT_TOKEN",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

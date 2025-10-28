@@ -6,7 +6,7 @@
 
 // For Live Reload to work, YUI needs to know the FULL path to the 'datafiles' folder for your project.
 // e.g. "D:/Projects/Game Design/YUI/datafiles/"
-#macro YUI_USER_PROJECT_DATA_FOLDER undefined
+#macro YUI_USER_PROJECT_DATA_FOLDER (filename_path(GM_project_filename) + "datafiles/")
 
 // YUI also needs to know which folder in /datafiles/ contains the .yui files for the UI.
 // In the Example Project, they're located in /datafiles/YUI/ but you can change that here.

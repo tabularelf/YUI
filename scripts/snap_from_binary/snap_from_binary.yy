@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Binary",
-    "path": "folders/Packages - Struct N' Array Parser/Binary.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_from_binary",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_from_binary",
+  "parent":{
+    "name":"Binary",
+    "path":"folders/Packages - Struct N' Array Parser/Binary.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_from_binary",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

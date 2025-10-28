@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Knit",
-    "path": "folders/Packages - gspl/Languages/Knit.yy",
+  "$GMScript":"v1",
+  "%Name":"define_knit_parse_tree",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"define_knit_parse_tree",
+  "parent":{
+    "name":"Knit",
+    "path":"folders/Packages - gspl/Languages/Knit.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "define_knit_parse_tree",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

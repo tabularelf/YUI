@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "scripts",
-    "path": "folders/Packages - YUI/scripts.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_find_item_by_id",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_find_item_by_id",
+  "parent":{
+    "name":"scripts",
+    "path":"folders/Packages - YUI/scripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_find_item_by_id",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Data",
-    "path": "folders/Packages - YUI/Data.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiMenuItem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiMenuItem",
+  "parent":{
+    "name":"Data",
+    "path":"folders/Packages - YUI/Data.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiMenuItem",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Scanner",
-    "path": "folders/Packages - gspl/Scanner.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplToken",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplToken",
+  "parent":{
+    "name":"Scanner",
+    "path":"folders/Packages - gspl/Scanner.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplToken",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

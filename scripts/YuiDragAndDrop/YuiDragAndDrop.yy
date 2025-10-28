@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Interaction",
-    "path": "folders/Packages - YUI/Interaction.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiDragAndDrop",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiDragAndDrop",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Packages - YUI/Interaction.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiDragAndDrop",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

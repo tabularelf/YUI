@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Packages - YUI",
-    "path": "folders/Packages - YUI.yy",
+  "$GMNotes":"v1",
+  "%Name":"YUI readme",
+  "name":"YUI readme",
+  "parent":{
+    "name":"Packages - YUI",
+    "path":"folders/Packages - YUI.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "YUI readme",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

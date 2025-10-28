@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Iterators",
-    "path": "folders/Packages - gspl/Execute/Iterators.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplArrayIterator",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplArrayIterator",
+  "parent":{
+    "name":"Iterators",
+    "path":"folders/Packages - gspl/Execute/Iterators.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplArrayIterator",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

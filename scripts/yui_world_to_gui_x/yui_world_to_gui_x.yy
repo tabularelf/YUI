@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Interaction",
-    "path": "folders/Packages - YUI/Interaction.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_world_to_gui_x",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_world_to_gui_x",
+  "parent":{
+    "name":"Interaction",
+    "path":"folders/Packages - YUI/Interaction.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_world_to_gui_x",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

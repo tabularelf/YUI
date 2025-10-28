@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Elements",
-    "path": "folders/Packages - YUI/Elements.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiViewportElement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiViewportElement",
+  "parent":{
+    "name":"Elements",
+    "path":"folders/Packages - YUI/Elements.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiViewportElement",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "YUI Compiled Functions",
-    "path": "folders/YUI Compiled Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_compiled_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_compiled_functions",
+  "parent":{
+    "name":"YUI Compiled Functions",
+    "path":"folders/YUI Compiled Functions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_compiled_functions",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

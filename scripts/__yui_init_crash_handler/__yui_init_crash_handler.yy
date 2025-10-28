@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Packages - YUI",
-    "path": "folders/Packages - YUI.yy",
+  "$GMScript":"v1",
+  "%Name":"__yui_init_crash_handler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__yui_init_crash_handler",
+  "parent":{
+    "name":"Packages - YUI",
+    "path":"folders/Packages - YUI.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "__yui_init_crash_handler",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

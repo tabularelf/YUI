@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "draw",
-    "path": "folders/Packages - YUI/scripts/draw.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_draw_alpha_surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_draw_alpha_surface",
+  "parent":{
+    "name":"draw",
+    "path":"folders/Packages - YUI/scripts/draw.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_draw_alpha_surface",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

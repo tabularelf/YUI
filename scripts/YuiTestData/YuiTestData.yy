@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "YUI Tests",
-    "path": "folders/YUI Tests.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiTestData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiTestData",
+  "parent":{
+    "name":"YUI Tests",
+    "path":"folders/YUI Tests.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiTestData",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

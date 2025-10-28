@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Input",
-    "path": "folders/Packages - YUI/Input.yy",
+  "$GMNotes":"v1",
+  "%Name":"credit",
+  "name":"credit",
+  "parent":{
+    "name":"Input",
+    "path":"folders/Packages - YUI/Input.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "credit",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

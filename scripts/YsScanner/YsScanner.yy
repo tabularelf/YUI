@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Ys",
-    "path": "folders/Packages - YUI/Parser/Ys.yy",
+  "$GMScript":"v1",
+  "%Name":"YsScanner",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YsScanner",
+  "parent":{
+    "name":"Ys",
+    "path":"folders/Packages - YUI/Parser/Ys.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YsScanner",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

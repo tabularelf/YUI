@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Layout",
-    "path": "folders/Packages - YUI/Layout.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_resolve_padding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_resolve_padding",
+  "parent":{
+    "name":"Layout",
+    "path":"folders/Packages - YUI/Layout.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_resolve_padding",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

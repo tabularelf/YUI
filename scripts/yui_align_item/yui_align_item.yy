@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Layout",
-    "path": "folders/Packages - YUI/Layout.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_align_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_align_item",
+  "parent":{
+    "name":"Layout",
+    "path":"folders/Packages - YUI/Layout.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_align_item",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "INI",
-    "path": "folders/Packages - Struct N' Array Parser/INI.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_from_ini_string",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_from_ini_string",
+  "parent":{
+    "name":"INI",
+    "path":"folders/Packages - Struct N' Array Parser/INI.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_from_ini_string",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

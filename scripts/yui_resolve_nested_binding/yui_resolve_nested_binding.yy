@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Binding",
-    "path": "folders/Packages - YUI/Binding.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_resolve_nested_binding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_resolve_nested_binding",
+  "parent":{
+    "name":"Binding",
+    "path":"folders/Packages - YUI/Binding.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_resolve_nested_binding",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

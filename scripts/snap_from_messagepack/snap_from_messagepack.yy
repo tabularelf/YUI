@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Messagepack",
-    "path": "folders/Packages - Struct N' Array Parser/Messagepack.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_from_messagepack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_from_messagepack",
+  "parent":{
+    "name":"Messagepack",
+    "path":"folders/Packages - Struct N' Array Parser/Messagepack.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_from_messagepack",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

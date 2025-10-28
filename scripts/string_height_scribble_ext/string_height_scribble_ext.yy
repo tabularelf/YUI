@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Quick Functions",
-    "path": "folders/Scribble/Quick Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"string_height_scribble_ext",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_height_scribble_ext",
+  "parent":{
+    "name":"Quick Functions",
+    "path":"folders/Scribble/Quick Functions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "string_height_scribble_ext",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

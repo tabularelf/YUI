@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Ys",
-    "path": "folders/Packages - YUI/Parser/Ys.yy",
+  "$GMScript":"v1",
+  "%Name":"YsTokenDefinition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YsTokenDefinition",
+  "parent":{
+    "name":"Ys",
+    "path":"folders/Packages - YUI/Parser/Ys.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YsTokenDefinition",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

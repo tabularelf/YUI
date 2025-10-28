@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Scanner",
-    "path": "folders/Packages - gspl/Scanner.yy",
+  "$GMScript":"v1",
+  "%Name":"gspl_string_substring",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gspl_string_substring",
+  "parent":{
+    "name":"Scanner",
+    "path":"folders/Packages - gspl/Scanner.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "gspl_string_substring",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

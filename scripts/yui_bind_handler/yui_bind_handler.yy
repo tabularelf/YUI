@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Event Handling",
-    "path": "folders/Packages - YUI/Event Handling.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_bind_handler",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_bind_handler",
+  "parent":{
+    "name":"Event Handling",
+    "path":"folders/Packages - YUI/Event Handling.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_bind_handler",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

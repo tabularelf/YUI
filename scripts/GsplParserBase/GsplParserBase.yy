@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Parser",
-    "path": "folders/Packages - gspl/Parser.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplParserBase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplParserBase",
+  "parent":{
+    "name":"Parser",
+    "path":"folders/Packages - gspl/Parser.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplParserBase",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Grids & 2D Arrays",
-    "path": "folders/Packages - Struct N' Array Parser/Grids & 2D Arrays.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_from_grid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_from_grid",
+  "parent":{
+    "name":"Grids & 2D Arrays",
+    "path":"folders/Packages - Struct N' Array Parser/Grids & 2D Arrays.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_from_grid",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

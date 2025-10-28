@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Callables",
-    "path": "folders/Packages - gspl/Execute/Callables.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplCallableAsset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplCallableAsset",
+  "parent":{
+    "name":"Callables",
+    "path":"folders/Packages - gspl/Execute/Callables.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplCallableAsset",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

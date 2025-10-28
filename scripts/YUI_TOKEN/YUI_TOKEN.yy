@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Yui",
-    "path": "folders/Packages - YUI/Parser/Yui.yy",
+  "$GMScript":"v1",
+  "%Name":"YUI_TOKEN",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YUI_TOKEN",
+  "parent":{
+    "name":"Yui",
+    "path":"folders/Packages - YUI/Parser/Yui.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YUI_TOKEN",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

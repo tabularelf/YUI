@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "JSON",
-    "path": "folders/Packages - Struct N' Array Parser/JSON.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_to_json",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_to_json",
+  "parent":{
+    "name":"JSON",
+    "path":"folders/Packages - Struct N' Array Parser/JSON.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_to_json",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

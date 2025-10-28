@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Selection",
-    "path": "folders/Packages - YUI/Selection.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_get_selection_scope",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_get_selection_scope",
+  "parent":{
+    "name":"Selection",
+    "path":"folders/Packages - YUI/Selection.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_get_selection_scope",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

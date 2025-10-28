@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Sprites",
-    "path": "folders/YUI Example/Sprites.yy",
+  "$GMNotes":"v1",
+  "%Name":"_icon_credits",
+  "name":"_icon_credits",
+  "parent":{
+    "name":"Sprites",
+    "path":"folders/YUI Example/Sprites.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "_icon_credits",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

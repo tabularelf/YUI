@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "YAML",
-    "path": "folders/Packages - Struct N' Array Parser/YAML.yy",
+  "$GMScript":"v1",
+  "%Name":"snap_to_yaml",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"snap_to_yaml",
+  "parent":{
+    "name":"YAML",
+    "path":"folders/Packages - Struct N' Array Parser/YAML.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "snap_to_yaml",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

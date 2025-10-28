@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Structures",
-    "path": "folders/Packages - YUI/Binding/Structures.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiCallFunction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiCallFunction",
+  "parent":{
+    "name":"Structures",
+    "path":"folders/Packages - YUI/Binding/Structures.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiCallFunction",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "game-icons.net",
-    "path": "folders/Packages - YUI/Sprites/game-icons.net.yy",
+  "$GMNotes":"v1",
+  "%Name":"game-icons.net license",
+  "name":"game-icons.net license",
+  "parent":{
+    "name":"game-icons.net",
+    "path":"folders/Packages - YUI/Sprites/game-icons.net.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "game-icons.net license",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }

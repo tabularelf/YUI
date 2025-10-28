@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Binding",
-    "path": "folders/Packages - YUI/Binding.yy",
+  "$GMScript":"v1",
+  "%Name":"yui_bind_array",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"yui_bind_array",
+  "parent":{
+    "name":"Binding",
+    "path":"folders/Packages - YUI/Binding.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "yui_bind_array",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

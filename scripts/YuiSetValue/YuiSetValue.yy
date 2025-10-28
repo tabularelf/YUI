@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Structures",
-    "path": "folders/Packages - YUI/Binding/Structures.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiSetValue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiSetValue",
+  "parent":{
+    "name":"Structures",
+    "path":"folders/Packages - YUI/Binding/Structures.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiSetValue",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

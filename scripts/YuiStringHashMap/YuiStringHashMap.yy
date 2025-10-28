@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Data",
-    "path": "folders/Packages - YUI/Data.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiStringHashMap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiStringHashMap",
+  "parent":{
+    "name":"Data",
+    "path":"folders/Packages - YUI/Data.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiStringHashMap",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

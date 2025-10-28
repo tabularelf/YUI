@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "YUI Example",
-    "path": "folders/YUI Example.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiExampleManager",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiExampleManager",
+  "parent":{
+    "name":"YUI Example",
+    "path":"folders/YUI Example.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiExampleManager",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

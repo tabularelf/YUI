@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Execute",
-    "path": "folders/Packages - gspl/Execute.yy",
+  "$GMScript":"v1",
+  "%Name":"GsplRuntimeError",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GsplRuntimeError",
+  "parent":{
+    "name":"Execute",
+    "path":"folders/Packages - gspl/Execute.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "GsplRuntimeError",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

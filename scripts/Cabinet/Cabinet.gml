@@ -19,8 +19,8 @@ function Cabinet(folder_path, extension = ".*", options = undefined) constructor
 		// flat view of the folder tree (indexed by full filepath)
 		flat_map = {};
 		
-		file_list = gumshoe(folder_path, extension);
-		tree = gumshoe(folder_path, extension, true, true, __generateCabinetItem);
+		file_list = gumshoe(folder_path, extension, false, false);
+		tree = gumshoe(folder_path, extension, true, false, __generateCabinetItem);
 	}
 	
 	// clears the cached values for this Cabinet (and all associated CabinetFiles)
@@ -32,7 +32,9 @@ function Cabinet(folder_path, extension = ".*", options = undefined) constructor
 	static file = function(path) {
 		// TODO: use platform safe logic here (from nik's gumshoe fixes)
 		path = string_replace_all(path, "/", "\\");
-		path = __fixPath(path);
+		path = string_lower(__fixPath(path));
+		path = string_replace_all(path, "\\", "/");
+		path = filename_path(path) + filename_name(path);
 		return flat_map[$ path];
 	}
 	
@@ -76,7 +78,7 @@ function Cabinet(folder_path, extension = ".*", options = undefined) constructor
 		}
 		
 		// point the flat_map entry at the cabinet file
-		flat_map[$ result.fullpath] = result;
+		flat_map[$ string_lower(result.fullpath)] = result;
 		
 		return result;
 	}

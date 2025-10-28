@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Compiler",
-    "path": "folders/Packages - YUI/Compiler.yy",
+  "$GMScript":"v1",
+  "%Name":"YuiCompiledBinding",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"YuiCompiledBinding",
+  "parent":{
+    "name":"Compiler",
+    "path":"folders/Packages - YUI/Compiler.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "YuiCompiledBinding",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

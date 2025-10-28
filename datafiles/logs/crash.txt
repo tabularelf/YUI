@@ -1,0 +1,21 @@
+{ script : "gml_Script_loadDocument@anon@441@YuiDocument@YuiDocument", line : 35, stacktrace : [ "gml_Script_loadDocument@anon@441@YuiDocument@YuiDocument (line 35)","gml_Script_YuiDocument (line 18) - 	loadDocument();","gml_Object_yui_document_Create_0 (line 55)" ], longMessage : "ERROR in action number 1
+of Create Event for object yui_document:
+Unable to find a handler for exception YUI ERROR: YuiDocument: Unable to find file at /home/tabularelf/Documents/GitHub/YUI/datafiles/ExampleProject/Screens/welcome_screen.yui. Please turn on CABINET_VERBOSE_LOGGING to see verbose logs.
+STACK:
+gml_Script_yui_error:63
+gml_Script_loadDocument@anon@441@YuiDocument@YuiDocument:35
+gml_Script_YuiDocument:18
+gml_Script_anon@1041@gml_Object_yui_document_Create_0:55
+gml_Object_yui_document_Create_0:121
+0
+
+ at gml_Script_loadDocument@anon@441@YuiDocument@YuiDocument (line 35) - 			throw yui_error($"YuiDocument: Unable to find file at {yui_filepath}. Please turn on CABINET_VERBOSE_LOGGING to see verbose logs.");
+", message : "Unable to find a handler for exception YUI ERROR: YuiDocument: Unable to find file at /home/tabularelf/Documents/GitHub/YUI/datafiles/ExampleProject/Screens/welcome_screen.yui. Please turn on CABINET_VERBOSE_LOGGING to see verbose logs.
+STACK:
+gml_Script_yui_error:63
+gml_Script_loadDocument@anon@441@YuiDocument@YuiDocument:35
+gml_Script_YuiDocument:18
+gml_Script_anon@1041@gml_Object_yui_document_Create_0:55
+gml_Object_yui_document_Create_0:121
+0
+" }
