@@ -1,0 +1,5 @@
+{ script : "gml_Object_YuiCursorManager_CleanUp_0", line : 4, stacktrace : [ "gml_Object_YuiCursorManager_CleanUp_0 (line 4)" ], longMessage : "ERROR in action number 1
+of <Unknown Event> for object YuiCursorManager:
+ds_list_destroy argument 1 incorrect type (ds_stack) expecting a ds_list
+ at gml_Object_YuiCursorManager_CleanUp_0 (line 4) - ds_list_destroy(focus_scope_stack);
+", message : "ds_list_destroy argument 1 incorrect type (ds_stack) expecting a ds_list" }
